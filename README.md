@@ -82,8 +82,6 @@
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1F2937?style=flat)
 ![Async Job Queues](https://img.shields.io/badge/Async_Job_Queues-1F2937?style=flat)
 
----
-
 ## Links
 
 - GitHub: [github.com/Sayandeep1013](https://github.com/Sayandeep1013)
