@@ -85,31 +85,6 @@
 
 ---
 
-## Selected Work
-
-### ReelSharing — Multimodal RAG Pipeline for Video Knowledge
-[`Sayandeep1013/ReelSharing`](https://github.com/Sayandeep1013/ReelSharing) · `FastAPI · Groq (LLM + Whisper) · Jina Embeddings v3 · Supabase pgvector · Tavily · OpenCV`
-
-- End-to-end RAG pipeline turning any video link (YouTube, Instagram, TikTok, X) into structured, searchable knowledge — summaries, tags, timestamped transcripts, key frames, review questions.
-- Multimodal retrieval: audio transcribed via Groq Whisper, frame descriptions from a vision model, both embedded with jina-embeddings-v3 into Supabase pgvector.
-- Semantic search with task-aware encoding (indexing vs. query), cosine matching, tuned relevance threshold; Tavily wired in as an agent tool.
-
-### Valo.bot — LLM-Powered Esports Intelligence Platform
-[`Sayandeep1013/ValoBot`](https://github.com/Sayandeep1013/ValoBot) · `Next.js 15 · React 19 · Groq LLM · TypeScript`
-
-- Built "CYPHER", a conversational AI analyst answering open-ended questions on team strategy, player form, and agent meta, grounded in live match data.
-- Designed the prompt + retrieval layer that injects structured match/player/tournament context into every query to keep answers factual.
-
-### Picaku STT — On-Device Speech Recognition & Model Benchmark
-[`Sayandeep1013/Trans_Cribed`](https://github.com/Sayandeep1013/Trans_Cribed) · `Flutter · sherpa-onnx · ONNX Runtime · Silero VAD · Whisper / Moonshine / Parakeet`
-
-- Fully offline English transcription on Android with live captions — no audio leaves the device after the initial model download.
-- Benchmarked 7 ASR model variants (100–660 MB) on word error rate, real-time factor, RAM, and thermal throttling; exported results as JSON regression baselines.
-
-**Also built:** [TermTypo](https://github.com/Sayandeep1013/TermTypo) — PyPI-published terminal typing platform with ELO matchmaking · [co-canvas](https://github.com/Sayandeep1013/co-canvas) — Yjs CRDT collaborative editor and canvas · [DiscVault](https://github.com/Sayandeep1013/DiscVault) — chunked large-file storage over Discord with SHA-256 integrity and resumable uploads · [Live Subtitle](https://github.com/Sayandeep1013/BrowserExtension-LiveSubtitle-) — Chrome extension streaming tab audio to Deepgram Nova-3 for real-time subtitles.
-
----
-
 ## Links
 
 - GitHub: [github.com/Sayandeep1013](https://github.com/Sayandeep1013)
