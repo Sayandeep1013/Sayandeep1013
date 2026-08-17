@@ -1,5 +1,4 @@
 # Sayandeep Mondal [Rein]
----
 
 ## Technical Stack
 
