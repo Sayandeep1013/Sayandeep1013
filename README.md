@@ -1,7 +1,4 @@
-# Sayandeep Mondal
-
-AI and backend engineer building LLM-powered document intelligence at a fintech startup — multimodal RAG pipelines, agentic workflows, and LoRA fine-tuned vision models. Fast prototyper with a wide spread of shipped side projects across Generative AI, real-time systems, and full-stack web.
-
+# Sayandeep Mondal [Rein]
 ---
 
 ## Technical Stack
@@ -110,14 +107,6 @@ AI and backend engineer building LLM-powered document intelligence at a fintech 
 - Benchmarked 7 ASR model variants (100–660 MB) on word error rate, real-time factor, RAM, and thermal throttling; exported results as JSON regression baselines.
 
 **Also built:** [TermTypo](https://github.com/Sayandeep1013/TermTypo) — PyPI-published terminal typing platform with ELO matchmaking · [co-canvas](https://github.com/Sayandeep1013/co-canvas) — Yjs CRDT collaborative editor and canvas · [DiscVault](https://github.com/Sayandeep1013/DiscVault) — chunked large-file storage over Discord with SHA-256 integrity and resumable uploads · [Live Subtitle](https://github.com/Sayandeep1013/BrowserExtension-LiveSubtitle-) — Chrome extension streaming tab audio to Deepgram Nova-3 for real-time subtitles.
-
----
-
-## Background
-
-B.Tech, Computer Science & Engineering (Data Science) — The Neotia University, 2021–2025. CGPA: 8.99/10.
-
-Currently Junior AI & Backend Engineer at [Finaxon AI](https://finaxonai.com), building an AI document-intelligence platform for chartered accountancy and due-diligence workflows.
 
 ---
 
