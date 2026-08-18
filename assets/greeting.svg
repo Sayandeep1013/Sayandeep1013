@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 34" width="190" height="34">
+  <style>
+    text {
+      font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 26px;
+      fill: #1f2328;
+    }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #e6edf3; }
+    }
+    .g {
+      opacity: 0;
+      animation: cycle 4.8s ease-in-out infinite;
+    }
+    @keyframes cycle {
+      0%   { opacity: 0; }
+      3%   { opacity: 1; }
+      20%  { opacity: 1; }
+      25%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .g1 { animation-delay: 0s; }
+    .g2 { animation-delay: 1.2s; }
+    .g3 { animation-delay: 2.4s; }
+    .g4 { animation-delay: 3.6s; }
+  </style>
+  <text class="g g1" x="0" y="26">Hello</text>
+  <text class="g g2" x="0" y="26">Hola</text>
+  <text class="g g3" x="0" y="26">Namaste</text>
+  <text class="g g4" x="0" y="26">Namaskar</text>
+</svg>
