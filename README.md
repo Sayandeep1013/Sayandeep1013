@@ -1,6 +1,10 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="perfect loop banner">
 
+<img width="200" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="greeting">
+
 # Sayandeep [Rein]
+
+<img align="right" width="160" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="perfect loop">
 
 ## Technical Stack
 
@@ -83,6 +87,8 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1F2937?style=flat)
 ![Async Job Queues](https://img.shields.io/badge/Async_Job_Queues-1F2937?style=flat)
+
+<img width="160" src="https://raw.githubusercontent.com/Sayandeep1013/Sayandeep1013/main/assets/goku.svg" alt="goku">
 
 ## Links
 
